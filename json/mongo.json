@@ -1,0 +1,10 @@
+{
+  "db": {
+    "Bible": {
+      "name": "Bible",
+      "collection": {
+        "name": "Books"
+      }
+    }
+  }
+}

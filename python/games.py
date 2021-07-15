@@ -1,6 +1,8 @@
 #!/usr/bin/python3
 import pymongo, random, os
-client = pymongo.MongoClient("mongo", 27017)
+mongo_host=os.environ['MONGO_HOST']
+mongo_port=os.environ['MONGO_PORT']
+client = pymongo.MongoClient(mongo_host, int(mongo_port))
 db = client.Bible
 db.Books
 while True:
