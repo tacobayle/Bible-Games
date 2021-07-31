@@ -1,266 +1,398 @@
 [
   {
     "name": "Genesis",
-    "book_index": 1
+    "book_index": 1,
+    "writers": ["Moses"],
+    "chapter": 50
   },
   {
     "name": "Exodus",
-    "book_index": 2
+    "book_index": 2,
+    "writers": ["Moses"],
+    "chapter": 40
   },
   {
     "name": "Leviticus",
-    "book_index": 3
+    "book_index": 3,
+    "writers": ["Moses"],
+    "chapter": 27
   },
   {
     "name": "Numbers",
-    "book_index": 4
+    "book_index": 4,
+    "writers": ["Moses"],
+    "chapter": 36
   },
   {
     "name": "Deuteronomy",
-    "book_index": 5
+    "book_index": 5,
+    "writers": ["Moses"],
+    "chapter": 34
   },
   {
     "name": "Joshua",
-    "book_index": 6
+    "book_index": 6,
+    "writers": ["Joshua"],
+    "chapter": 24
   },
   {
     "name": "Judges",
-    "book_index": 7
+    "book_index": 7,
+    "writers": ["Samuel"],
+    "chapter": 21
   },
   {
     "name": "Ruth",
-    "book_index": 8
+    "book_index": 8,
+    "writers": ["Samuel"],
+    "chapter": 4
   },
   {
     "name": "1 Samuel",
-    "book_index": 9
+    "book_index": 9,
+    "writers": ["Samuel", "Gad", "Nathan"],
+    "chapter": 31
   },
   {
     "name": "2 Samuel",
-    "book_index": 10
+    "book_index": 10,
+    "writers": ["Gad", "Nathan"],
+    "chapter": 24
   },
   {
     "name": "1 Kings",
-    "book_index": 11
+    "book_index": 11,
+    "writers": ["Jeremiah"],
+    "chapter": 22
   },
   {
     "name": "2 Kings",
-    "book_index": 12
+    "book_index": 12,
+    "writers": ["Jeremiah"],
+    "chapter": 25
   },
   {
     "name": "1 Chronicles",
-    "book_index": 13
+    "book_index": 13,
+    "writers": ["Ezra"],
+    "chapter": 29
   },
   {
     "name": "2 Chronicles",
-    "book_index": 14
+    "book_index": 14,
+    "writers": ["Ezra"],
+    "chapter": 36
   },
   {
     "name": "Ezra",
-    "book_index": 15
+    "book_index": 15,
+    "writers": ["Ezra"],
+    "chapter": 10
   },
   {
     "name": "Nehemiah",
-    "book_index": 16
+    "book_index": 16,
+    "writers": ["Nehemiah"],
+    "chapter": 13
   },
   {
     "name": "Esther",
-    "book_index": 17
+    "book_index": 17,
+    "writers": ["Mordecai"],
+    "chapter": 10
   },
   {
     "name": "Job",
-    "book_index": 18
+    "book_index": 18,
+    "writers": ["Moses"],
+    "chapter": 42
   },
   {
     "name": "Psalms",
-    "book_index": 19
+    "book_index": 19,
+    "writers": ["David", "Others"],
+    "chapter": 150
   },
   {
     "name": "Proverbs",
-    "book_index": 20
+    "book_index": 20,
+    "writers": ["Solomon", "Agur", "Lemuel"],
+    "chapter": 31
   },
   {
     "name": "Ecclesiastes",
-    "book_index": 21
+    "book_index": 21,
+    "writers": ["Solomon"],
+    "chapter": 12
   },
   {
     "name": "Song of Solomon",
-    "book_index": 22
+    "book_index": 22,
+    "writers": ["Solomon"],
+    "chapter": 8
   },
   {
     "name": "Isaiah",
-    "book_index": 23
+    "book_index": 23,
+    "writers": ["Isaiah"],
+    "chapter": 66
   },
   {
     "name": "Jeremiah",
-    "book_index": 24
+    "book_index": 24,
+    "writers": ["Jeremiah"],
+    "chapter": 52
   },
   {
     "name": "Lamentations",
-    "book_index": 25
+    "book_index": 25,
+    "writers": ["Jeremiah"],
+    "chapter": 5
   },
   {
     "name": "Ezekiel",
-    "book_index": 26
+    "book_index": 26,
+    "writers": ["Ezekiel"],
+    "chapter": 48
   },
   {
     "name": "Daniel",
-    "book_index": 27
+    "book_index": 27,
+    "writers": ["Daniel"],
+    "chapter": 12
   },
   {
     "name": "Hosea",
-    "book_index": 28
+    "book_index": 28,
+    "writers": ["Hosea"],
+    "chapter": 14
   },
   {
     "name": "Joel",
-    "book_index": 29
+    "book_index": 29,
+    "writers": ["Joel"],
+    "chapter": 3
   },
   {
     "name": "Amos",
-    "book_index": 30
+    "book_index": 30,
+    "writers": ["Amos"],
+    "chapter": 9
   },
   {
     "name": "Obadiah",
-    "book_index": 31
+    "book_index": 31,
+    "writers": ["Obadiah"],
+    "chapter": 1
   },
   {
     "name": "Jonah",
-    "book_index": 32
+    "book_index": 32,
+    "writers": ["Jonah"],
+    "chapter": 4
   },
   {
     "name": "Micah",
-    "book_index": 33
+    "book_index": 33,
+    "writers": ["Micah"],
+    "chapter": 7
   },
   {
     "name": "Nahum",
-    "book_index": 34
+    "book_index": 34,
+    "writers": ["Nahum"],
+    "chapter": 7
   },
   {
     "name": "Habakkuk",
-    "book_index": 35
+    "book_index": 35,
+    "writers": ["Habakkuk"],
+    "chapter": 3
   },
   {
     "name": "Zephaniah",
-    "book_index": 36
+    "book_index": 36,
+    "writers": ["Zephaniah"],
+    "chapter": 3
   },
   {
     "name": "Haggai",
-    "book_index": 37
+    "book_index": 37,
+    "writers": ["Haggai"],
+    "chapter": 2
   },
   {
     "name": "Zechariah",
-    "book_index": 38
+    "book_index": 38,
+    "writers": ["Zechariah"],
+    "chapter": 14
   },
   {
     "name": "Malachi",
-    "book_index": 39
+    "book_index": 39,
+    "writers": ["Malachi"],
+    "chapter": 4
   },
   {
     "name": "Matthew",
-    "book_index": 40
+    "book_index": 40,
+    "writers": ["Matthew"],
+    "chapter": 28
   },
   {
     "name": "Mark",
-    "book_index": 41
+    "book_index": 41,
+    "writers": ["Mark"],
+    "chapter": 16
   },
   {
     "name": "Luke",
-    "book_index": 42
+    "book_index": 42,
+    "writers": ["Luke"],
+    "chapter": 24
   },
   {
     "name": "John",
-    "book_index": 43
+    "book_index": 43,
+    "writers": ["Apostle John"],
+    "chapter": 21
   },
   {
     "name": "Acts",
-    "book_index": 44
+    "book_index": 44,
+    "writers": ["Luke"],
+    "chapter": 28
   },
   {
     "name": "Romans",
-    "book_index": 45
+    "book_index": 45,
+    "writers": ["Paul"],
+    "chapter": 16
   },
   {
     "name": "1 Corinthians",
-    "book_index": 46
+    "book_index": 46,
+    "writers": ["Paul"],
+    "chapter": 16
   },
   {
     "name": "2 Corinthians",
-    "book_index": 47
+    "book_index": 47,
+    "writers": ["Paul"],
+    "chapter": 13
   },
   {
     "name": "Galatians",
-    "book_index": 48
+    "book_index": 48,
+    "writers": ["Paul"],
+    "chapter": 6
   },
   {
     "name": "Ephesians",
-    "book_index": 49
+    "book_index": 49,
+    "writers": ["Paul"],
+    "chapter": 6
   },
   {
     "name": "Philippians",
-    "book_index": 50
+    "book_index": 50,
+    "writers": ["Paul"],
+    "chapter": 4
   },
   {
     "name": "Colossians",
-    "book_index": 51
+    "book_index": 51,
+    "writers": ["Paul"],
+    "chapter": 4
   },
   {
     "name": "1 Thessalonians",
-    "book_index": 52
+    "book_index": 52,
+    "writers": ["Paul"],
+    "chapter": 5
   },
   {
     "name": "2 Thessalonians",
-    "book_index": 53
+    "book_index": 53,
+    "writers": ["Paul"],
+    "chapter": 3
   },
   {
     "name": "1 Timothy",
-    "book_index": 54
+    "book_index": 54,
+    "writers": ["Paul"],
+    "chapter": 6
   },
   {
     "name": "2 Timothy",
-    "book_index": 55
+    "book_index": 55,
+    "writers": ["Paul"],
+    "chapter": 4
   },
   {
     "name": "Titus",
-    "book_index": 56
+    "book_index": 56,
+    "writers": ["Paul"],
+    "chapter": 3
   },
   {
     "name": "Philemon",
-    "book_index": 57
+    "book_index": 57,
+    "writers": ["Paul"],
+    "chapter": 1
   },
   {
     "name": "Hebrews",
-    "book_index": 58
+    "book_index": 58,
+    "writers": ["Paul"],
+    "chapter": 13
   },
   {
     "name": "James",
-    "book_index": 59
+    "book_index": 59,
+    "writers": ["James (Jesus’ brother)"],
+    "chapter": 5
   },
   {
     "name": "1 Peter",
-    "book_index": 60
+    "book_index": 60,
+    "writers": ["Peter"],
+    "chapter": 5
   },
   {
     "name": "2 Peter",
-    "book_index": 61
+    "book_index": 61,
+    "writers": ["Peter"],
+    "chapter": 3
   },
   {
     "name": "1 John",
-    "book_index": 62
+    "book_index": 62,
+    "writers": ["Apostle John"],
+    "chapter": 5
   },
   {
     "name": "2 John",
-    "book_index": 63
+    "book_index": 63,
+    "writers": ["Apostle John"],
+    "chapter": 1
   },
   {
     "name": "3 John",
-    "book_index": 64
+    "book_index": 64,
+    "writers": ["Apostle John"],
+    "chapter": 1
   },
   {
     "name": "Jude",
-    "book_index": 65
+    "book_index": 65,
+    "writers": ["Jude (Jesus’ brother)"],
+    "chapter": 1
   },
   {
     "name": "Revelation",
-    "book_index": 66
+    "book_index": 66,
+    "writers": ["Apostle John"],
+    "chapter": 22
   }
 ]
